@@ -47,3 +47,10 @@ public class Student {
 
 3. Try adding other types of files like images. Try deleting files. Commit your changes.
 
+public class Dog {
+    String name;
+    int age;
+    String breed;
+    int size; 
+}
+
